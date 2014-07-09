@@ -5,7 +5,7 @@ var parse = function(data) {
     for (var i=0; i<5; i++) {
       colors.push({
         color: '#'+(palette.colors[i]||'FFFFFF'),
-        width: ((palette.colorWidths[i]||0)*100|0)+'%'
+        width: ((palette.colorWidths[i]||0)*100)+'%'
       });
     }
     return colors;
