@@ -11,7 +11,7 @@ var parse = function(data) {
     return colors;
   });
   console.log(palettes.length + ' palettes retrieved.');
-  setInterval(change,2000);
+  setInterval(change,5000);
   change();
 };
 
