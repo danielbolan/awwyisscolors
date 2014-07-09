@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bar {
+  height: 100vh;
+  width: 20%;
+  float: left;
+  transition-property: background-color, width;
+  transition-duration: 1s, 1s;
+  transition-timing-function: ease;
+}
