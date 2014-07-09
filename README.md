@@ -1,4 +1,25 @@
-awwyisscolors
+AWW YISS
 =============
 
-Aww yiss
+A reimplementation of a project I hacked together one night sophomore year. But better!
+
+###The Goods
+* Got tired of waiting on Kuler API to start up again, switched to ColourLovers
+* You can choose a color that you'd like to (roughly) center around:
+  * [Red](danielbolan.github.io/awwyisscolors/?theme=red)
+  * [Orange](danielbolan.github.io/awwyisscolors/?theme=orange)
+  * [Yellow](danielbolan.github.io/awwyisscolors/?theme=yellow)
+  * [Green](danielbolan.github.io/awwyisscolors/?theme=green)
+  * [Aqua](danielbolan.github.io/awwyisscolors/?theme=aqua)
+  * [Blue](danielbolan.github.io/awwyisscolors/?theme=blue)
+  * [Violet](danielbolan.github.io/awwyisscolors/?theme=violet)
+  * [Fuchsia](danielbolan.github.io/awwyisscolors/?theme=fuchsia)
+  * [Default (all of the above)](danielbolan.github.io/awwyisscolors/)
+  * [Random](danielbolan.github.io/awwyisscolors/?theme=random)
+* Transitions are now done with CSS instead of jQuery and its color plugins
+* Bands are variable width! I dig it.
+
+###Notes
+Almost certainly not cross-browser compatible. I didn't write this with other people in mind, I just wanted something nice and pretty on my second screen while I'm not using it. Maybe down the road I'll fix this (pull request welcome, too).
+
+Won't work with HTTPS because ColourLovers API doesn't support it :(
