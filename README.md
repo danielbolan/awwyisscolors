@@ -6,16 +6,16 @@ A reimplementation of a project I hacked together one night sophomore year. But 
 ###The Goods
 * Got tired of waiting on Kuler API to start up again, switched to ColourLovers
 * You can choose a color that you'd like to (roughly) center around:
-  * [Red](danielbolan.github.io/awwyisscolors/?theme=red)
-  * [Orange](danielbolan.github.io/awwyisscolors/?theme=orange)
-  * [Yellow](danielbolan.github.io/awwyisscolors/?theme=yellow)
-  * [Green](danielbolan.github.io/awwyisscolors/?theme=green)
-  * [Aqua](danielbolan.github.io/awwyisscolors/?theme=aqua)
-  * [Blue](danielbolan.github.io/awwyisscolors/?theme=blue)
-  * [Violet](danielbolan.github.io/awwyisscolors/?theme=violet)
-  * [Fuchsia](danielbolan.github.io/awwyisscolors/?theme=fuchsia)
-  * [Default (all of the above)](danielbolan.github.io/awwyisscolors/)
-  * [Random](danielbolan.github.io/awwyisscolors/?theme=random)
+  * [Red](http://danielbolan.github.io/awwyisscolors/?theme=red)
+  * [Orange](http://danielbolan.github.io/awwyisscolors/?theme=orange)
+  * [Yellow](http://danielbolan.github.io/awwyisscolors/?theme=yellow)
+  * [Green](http://danielbolan.github.io/awwyisscolors/?theme=green)
+  * [Aqua](http://danielbolan.github.io/awwyisscolors/?theme=aqua)
+  * [Blue](http://danielbolan.github.io/awwyisscolors/?theme=blue)
+  * [Violet](http://danielbolan.github.io/awwyisscolors/?theme=violet)
+  * [Fuchsia](http://danielbolan.github.io/awwyisscolors/?theme=fuchsia)
+  * [Default (all of the above)](http://danielbolan.github.io/awwyisscolors/)
+  * [Random](http://danielbolan.github.io/awwyisscolors/?theme=random)
 * Transitions are now done with CSS instead of jQuery and its color plugins
 * Bands are variable width! I dig it.
 
