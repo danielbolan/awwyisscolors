@@ -16,7 +16,7 @@ var parse = function(data) {
 };
 
 var settings = {
-  url: 'http://www.colourlovers.com/api/palettes/top',
+  url: 'https://www.colourlovers.com/api/palettes/top',
   dataType: 'jsonp',
   data: {
     showPaletteWidths: 1,
